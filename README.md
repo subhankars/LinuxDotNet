@@ -8,6 +8,7 @@ To see how to, check this Url:
 The SQL server database is created in an Linux Environment with LinuxDotNet database and a simple Customer table. 
 To see how check this Url:
 #### http://subhankarsarkar.com/sql-server-on-linux-install-and-use-it-with-sql-operations-studio/
+The database script LinuxDotNet.sql is attached with the solution.
 
 Since it's a database first approach we had to scaffold it and made necessary adjustments as follows -
 
