@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinuxDotnet", "LinuxDotnet.csproj", "{852E4148-E259-4091-85EC-A8D7CF901549}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB Script", "DB Script", "{B4879AFC-91EA-4D25-B706-8C63FC86FCEA}"
+	ProjectSection(SolutionItems) = preProject
+		LinuxDotNet.sql = LinuxDotNet.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852E4148-E259-4091-85EC-A8D7CF901549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852E4148-E259-4091-85EC-A8D7CF901549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852E4148-E259-4091-85EC-A8D7CF901549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852E4148-E259-4091-85EC-A8D7CF901549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38FE0B0-D0C9-46FE-A602-783F6FD24360}
+	EndGlobalSection
+EndGlobal
